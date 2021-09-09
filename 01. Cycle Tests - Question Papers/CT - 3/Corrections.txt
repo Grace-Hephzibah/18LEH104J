@@ -1,0 +1,7 @@
+File 1 - Question 6
+Wrong answer: aber 
+Right answer: sondern
+
+File 1 - Question 25
+Wrong answer: bist
+Right answer: hast 
